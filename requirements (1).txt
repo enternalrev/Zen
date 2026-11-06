@@ -1,0 +1,8 @@
+aiogram>=3.7
+telethon
+tgcrypto
+yt-dlp
+gtts
+qrcode[pil]
+googletrans==4.0.0-rc1
+py-tgcalls
